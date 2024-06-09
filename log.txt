@@ -1,0 +1,22 @@
+timestamp=2024-06-09T17:52:28.369712187+05:30 level=info message=IP-[::1]:40000;Method-POST;Path-/addEmployee;UserAgent- caller=/home/jothish/golang/simple_employee_database/Controllers/controller.go:22 
+timestamp=2024-06-09T17:52:28.372367969+05:30 level=error message="Error while inserting data" caller=/home/jothish/golang/simple_employee_database/db/db-ops.go:62 
+timestamp=2024-06-09T17:55:24.772914923+05:30 level=info message=IP-[::1]:47310;Method-POST;Path-/addEmployee;UserAgent- caller=/home/jothish/golang/simple_employee_database/Controllers/controller.go:22 
+timestamp=2024-06-09T17:55:24.774973477+05:30 level=info message="table not exists" caller=/home/jothish/golang/simple_employee_database/db/db-ops.go:43 
+timestamp=2024-06-09T18:13:36.292436187+05:30 level=info message=IP-[::1]:59802;Method-POST;Path-/addEmployee;UserAgent- caller=/home/jothish/golang/simple_employee_database/Controllers/controller.go:22 
+timestamp=2024-06-09T18:13:36.294840692+05:30 level=info message="table exists" caller=/home/jothish/golang/simple_employee_database/db/db-ops.go:41 
+timestamp=2024-06-09T18:13:40.786681294+05:30 level=info message=IP-[::1]:51816;Method-POST;Path-/addEmployee;UserAgent- caller=/home/jothish/golang/simple_employee_database/Controllers/controller.go:22 
+timestamp=2024-06-09T18:13:40.788888387+05:30 level=info message="table exists" caller=/home/jothish/golang/simple_employee_database/db/db-ops.go:41 
+timestamp=2024-06-09T18:14:10.126785749+05:30 level=info message=IP-[::1]:35492;Method-POST;Path-/addEmployee;UserAgent- caller=/home/jothish/golang/simple_employee_database/Controllers/controller.go:22 
+timestamp=2024-06-09T18:14:10.128275297+05:30 level=info message="table exists" caller=/home/jothish/golang/simple_employee_database/db/db-ops.go:41 
+timestamp=2024-06-09T18:16:27.324625819+05:30 level=info message=IP-[::1]:33750;Method-POST;Path-/addEmployee;UserAgent- caller=/home/jothish/golang/simple_employee_database/Controllers/controller.go:22 
+timestamp=2024-06-09T18:16:27.327506226+05:30 level=info message="table exists" caller=/home/jothish/golang/simple_employee_database/db/db-ops.go:41 
+timestamp=2024-06-09T18:16:32.423033124+05:30 level=info message=IP-[::1]:41036;Method-POST;Path-/addEmployee;UserAgent- caller=/home/jothish/golang/simple_employee_database/Controllers/controller.go:22 
+timestamp=2024-06-09T18:16:32.424641705+05:30 level=info message="table exists" caller=/home/jothish/golang/simple_employee_database/db/db-ops.go:41 
+timestamp=2024-06-09T18:25:01.051433174+05:30 level=info message=IP-[::1]:55636;Method-POST;Path-/addEmployee;UserAgent- caller=/home/jothish/golang/simple_employee_database/Controllers/controller.go:22 
+timestamp=2024-06-09T18:25:01.053406646+05:30 level=info message="table exists" caller=/home/jothish/golang/simple_employee_database/db/db-ops.go:41 
+timestamp=2024-06-09T18:27:25.787992325+05:30 level=info message=IP-[::1]:47986;Method-POST;Path-/addEmployee;UserAgent- caller=/home/jothish/golang/simple_employee_database/Controllers/controller.go:22 
+timestamp=2024-06-09T18:27:25.790836553+05:30 level=info message="table exists" caller=/home/jothish/golang/simple_employee_database/db/db-ops.go:41 
+timestamp=2024-06-09T19:46:02.099265231+05:30 level=info message=IP-[::1]:52660;Method-POST;Path-/addEmployee;UserAgent- caller=/home/jothish/golang/simple_employee_database/Controllers/controller.go:22 
+timestamp=2024-06-09T19:46:02.101699712+05:30 level=info message="table exists" caller=/home/jothish/golang/simple_employee_database/db/db-ops.go:41 
+timestamp=2024-06-09T19:46:13.863691893+05:30 level=info message=IP-[::1]:41200;Method-GET;Path-/getEmployee/1;UserAgent- caller=/home/jothish/golang/simple_employee_database/Controllers/controller.go:58 
+timestamp=2024-06-09T19:46:13.867054385+05:30 level=info message="table exists" caller=/home/jothish/golang/simple_employee_database/db/db-ops.go:41 
